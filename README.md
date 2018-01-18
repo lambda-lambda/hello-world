@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi Humans!
+
+lambda-lambda here, I like Python and Java.
